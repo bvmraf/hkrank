@@ -1,4 +1,3 @@
-thu lai dong
-thu 2 dong
-thu ok dong
-viet them 1 dong
+2 3
+2 4
+16 32 96
