@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test 1
-=======
-test 2
->>>>>>> bd42bb4838c21cbd4ca730822591cf4900210d9d
+test 4
