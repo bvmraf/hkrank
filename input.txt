@@ -1,4 +1,9 @@
 thu mot dong
 thu 2 dong
+<<<<<<< HEAD
 thu 5 dong
 viet them 1 dong
+=======
+thu 5 dong nha
+co bi gi k nhe
+>>>>>>> 264ec1bd36421b3ed93446cdf9194fbb08c2c30e
