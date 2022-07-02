@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-sua 1
-=======
-sua 2
->>>>>>> e57b7dd2e1bd9a6a0fe6fbba5eb7d8f7f1269b08
